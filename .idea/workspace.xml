@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf39226-92b6-4cad-afd7-9f295f3e3819" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/Main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/main/MainPage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/router/Router.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig-for-webpack-config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack.config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -101,7 +91,7 @@
       <workItem from="1625463316722" duration="971000" />
       <workItem from="1625618341855" duration="203000" />
       <workItem from="1625618549441" duration="64000" />
-      <workItem from="1625618734721" duration="1870000" />
+      <workItem from="1625618734721" duration="8141000" />
     </task>
     <servers />
   </component>

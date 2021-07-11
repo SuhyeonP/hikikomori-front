@@ -58,6 +58,7 @@ const config: Configuration = {
       {
         test: /\.css?$/,
         use: ['style-loader', 'css-loader'],
+        // todo style-loader 다운 없애둠... error 시 확인
       },
     ],
   },
